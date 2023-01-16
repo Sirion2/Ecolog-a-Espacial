@@ -1,0 +1,5 @@
+C:\Users\pc3\source\RELEASES\Proy1-Ecología_Espacial-Abraham_Chen.exe
+C:\Users\pc3\source\RELEASES\Proy1-Ecología_Espacial-Abraham_Chen.dll
+C:\Users\pc3\source\RELEASES\Proy1-Ecología_Espacial-Abraham_Chen.deps.json
+C:\Users\pc3\source\RELEASES\Proy1-Ecología_Espacial-Abraham_Chen.runtimeconfig.json
+C:\Users\pc3\source\RELEASES\Proy1-Ecología_Espacial-Abraham_Chen.pdb
